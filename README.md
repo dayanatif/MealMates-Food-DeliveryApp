@@ -1,16 +1,32 @@
-# myapp
+# 🍴 MealMates - Your Ultimate Food Delivery App
 
-A new Flutter project.
+**MealMates** is a user-friendly food delivery app developed in Flutter. Designed to make food ordering seamless and enjoyable, it lets users browse meals, calculate taxes, and view detailed order summaries—all wrapped in an attractive UI. Whether you're hungry for a quick snack or a gourmet meal, MealMates connects you to the best options near you!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Intuitive UI**: A visually appealing interface for easy navigation.
+- **Meal Categories**: Explore various cuisines and meal types.
+- **Custom Orders**: Personalize your meal preferences.
+- **Light & Dark Themes**: Switch between light and dark modes for your preferred experience.
+- **Comprehensive Reports**: Get detailed summaries of your orders and expenses.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend**: Flutter (Dart)
+- **Backend**: FireBase
+- **UI Themes**: Light and Dark themes implemented for customization
+- **State Management**: Provider
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter installed on your machine
+- An IDE such as Android Studio or VS Code
+
