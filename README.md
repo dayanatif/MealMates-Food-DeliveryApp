@@ -8,7 +8,6 @@
 
 - **Intuitive UI**: A visually appealing interface for easy navigation.
 - **Meal Categories**: Explore various cuisines and meal types.
-- **Custom Orders**: Personalize your meal preferences.
 - **Light & Dark Themes**: Switch between light and dark modes for your preferred experience.
 - **Comprehensive Reports**: Get detailed summaries of your orders and expenses.
 
