@@ -1,4 +1,4 @@
-# 🍴 MealMates - Your Ultimate Food Delivery App 🍴
+# 🍴 MealMates - Your Ultimate Food Delivery App
 
 **MealMates** is a user-friendly food delivery app developed in Flutter. Designed to make food ordering seamless and enjoyable, it lets users browse meals, calculate taxes, and view detailed order summaries—all wrapped in an attractive UI. Whether you're hungry for a quick snack or a gourmet meal, MealMates connects you to the best options near you!
 
