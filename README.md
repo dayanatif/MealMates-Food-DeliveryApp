@@ -28,4 +28,3 @@
 
 - Flutter installed on your machine
 - An IDE such as Android Studio or VS Code
-
