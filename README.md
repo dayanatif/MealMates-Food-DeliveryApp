@@ -10,7 +10,7 @@
 - **Meal Categories**: Explore various cuisines and meal types.
 - **Light & Dark Themes**: Switch between light and dark modes for your preferred experience.
 - **Comprehensive Reports**: Get detailed summaries of your orders and expenses.
-
+- 
 ---
 
 ## 🛠️ Tech Stack
